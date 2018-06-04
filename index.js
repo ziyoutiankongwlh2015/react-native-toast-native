@@ -7,6 +7,9 @@ var ToastNative = {
     SHORT: RCTToastNative.SHORT,
     LONG: RCTToastNative.LONG,
 
+
+    https://github.com/nickzengcn/react-native-toast-native
+
     // Toast gravity constants
     TOP: RCTToastNative.TOP,
     BOTTOM: RCTToastNative.BOTTOM,
